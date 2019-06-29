@@ -1,0 +1,45 @@
+.middletext {
+    font-size:16px;
+    margin-bottom:10px
+}
+
+.bg-primary{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+#randomnumber {
+    font-size: 85px;
+    color:#007bff;
+}
+
+#winslosses1 {
+    font-size: 24px;
+    color:#007bff;
+    padding-left: 30vh;
+    padding-top: 40px;
+
+}
+
+#winslosses2 {
+    font-size: 24px;
+    color:#007bff;
+    padding-right: 30vh;
+    padding-top: 40px;
+
+}
+
+#scoretext {
+    font-size: 24px;
+    color:#007bff;
+}
+
+#currentscore {
+    font-size: 60px;
+    color:#007bff;
+}
+
+.textbox {
+    padding:0px;
+}
